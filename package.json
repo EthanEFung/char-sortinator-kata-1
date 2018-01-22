@@ -1,0 +1,30 @@
+{
+  "name": "char-sortinator-kata-1",
+  "version": "1.0.0",
+  "description": "Specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanEFung/char-sortinator-kata-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanEFung/char-sortinator-kata-1/issues"
+  },
+  "homepage": "https://github.com/EthanEFung/char-sortinator-kata-1#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jest": "^22.1.4",
+    "nodemon": "^1.14.11"
+  },
+  "devDependencies": {
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0"
+  }
+}
