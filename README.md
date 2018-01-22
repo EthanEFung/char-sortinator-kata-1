@@ -16,7 +16,7 @@ Logistics
 
   -  Create a repo from scratch.
   -  Make a series of sensible, well-named commits.
-  0  Submit your repo URL.
+  -  Submit your repo URL.
 
 Notes
 
