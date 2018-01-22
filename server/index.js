@@ -15,6 +15,7 @@ app
   .use(cors())
   .use(urlencoded({ extended: true }))
   .use(json())
+  .use(express.static(path.resolve('client')))
   .use(router);
 
 app.listen(port, err => {
